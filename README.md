@@ -1,8 +1,12 @@
 # I-0 Detector
 
-This is a simple fun project made with React and Ui library used is Ant Design.
+This is a simple fun project made with React + Vite + Ant Design.
 
 You can simply find this on Github hosted domain below:
 
-- [Live Link](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Live Link](https://sahaspuria.github.io/i-0-detector/)
+
+
+Follow/DM me on my [LinkedIn](https://www.linkedin.com/in/sahaspuria/)
+
+I am open to any feedbacks and any collabs,I try to sort the things out for developers. Peace✌🏻
