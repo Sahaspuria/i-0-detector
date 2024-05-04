@@ -1,8 +1,8 @@
-# React + Vite
+# I-0 Detector
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple fun project made with React and Ui library used is Ant Design.
 
-Currently, two official plugins are available:
+You can simply find this on Github hosted domain below:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [Live Link](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
